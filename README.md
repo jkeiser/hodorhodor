@@ -1,5 +1,7 @@
 # Hodor
 
+[![Build Status](https://travis-ci.org/jkeiser/hodorhodor.svg?branch=master)](https://travis-ci.org/jkeiser/hodorhodor)
+
 Hodor hodor hodor.  Hodor **hodor hodor**, hodor hodor hodor hodor.
 
 ## HODOR
