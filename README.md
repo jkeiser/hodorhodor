@@ -6,8 +6,31 @@ Hodor hodor hodor.  Hodor **hodor hodor**, hodor hodor hodor hodor.
 
 ## HODOR
 
+Hodor, hodor hodor:
+
 ```
-gem install hodorhodor
+gem install hordor
+```
+
+Hodor hodor, hodor *hodor hodor hodor* hodor `hodor` hodor!
+
+```
+> echo hi there | hodor
+hOdOR hODor
+hoDor. hodor. HoDOR hODor Hodor, HoDor...
+hoDOR hODor, hoDoR hOdOr HODOR...
+```
+
+Hodor hodor, hodor `hodorhodor`, hodor hodor hodor `hodor`:
+
+```
+> echo hi there | hodor | hodorhodor
+hi there
+```
+
+Hodor hodor hodor hodor.
+
+```
 hodor /etc/passwd > hodor.hodor
 hodorhodor hodor.hodor > hodor.hodor.hodor
 diff /etc/passwd hodor.hodor.hodor
