@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
     "HODOR.md"
   ]
   s.files = [ "HODOR", "HODORHODOR", "HODOR.md", "Rakefile" ] + Dir.glob("{hodor,hodorhodor}/**/*")
-  s.homepage = "hodor://hodor.hodor.hodor"
+  s.homepage = "https://github.com/jkeiser/hodorhodor"
   s.require_paths = ["hodor"]
   s.summary = "Hodor hodor hodor hodor hodor"
   s.description = s.summary
