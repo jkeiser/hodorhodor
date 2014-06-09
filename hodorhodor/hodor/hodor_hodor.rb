@@ -4,7 +4,16 @@ require 'hodor'
 
 describe ::Hodor do
   it 'Hodor hodor hodor HODOR! Hodor hodor hodor.' do
-    Hodor.hodor('hodor').split(/\s/).should == ["hOdOR", "hODor", "HoDOR,", "hoDor,", "HOdOR", "HODoR...", "hodOr!", "HODOR."]
+    Hodor.hodor('hodor').split(/\s/).map { |hodor| [ hodor[0,5], hodor.size > 5 ] }.should == [
+      [ "hOdOR", false ],
+      [ "hODor", false ],
+      [ "HoDOR", true ],
+      [ "hoDor", true ],
+      [ "HOdOR", false ],
+      [ "HODoR", true ],
+      [ "hodOr", true ],
+      [ "HODOR", true ]
+    ]
   end
 
   it 'Hodor hodor hodor hodor.' do
