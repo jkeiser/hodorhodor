@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'hodor'
+puts Hodor.hodorhodor(ARGF.read)
