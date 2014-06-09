@@ -13,7 +13,7 @@ RSpec::Core::RakeTask.new(:spec) do |hodor|
   hodor.pattern = 'hodorhodor/**/*_hodor.rb'
 end
 
-gem_spec = eval(File.read("hodor.gemspec"))
+gem_spec = eval(File.read("hodorhodor.gemspec"))
 
 RDoc::Task.new do |rdoc|
   rdoc.rdoc_dir = 'rdoc'
