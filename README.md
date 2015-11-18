@@ -9,7 +9,7 @@ Hodor hodor hodor.  Hodor **hodor hodor**, hodor hodor hodor hodor.
 Hodor, hodor hodor:
 
 ```
-gem install hordor
+gem install hodor
 ```
 
 Hodor hodor, hodor *hodor hodor hodor* hodor `hodor` hodor!
