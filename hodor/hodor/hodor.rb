@@ -1,3 +1,3 @@
 class Hodor
-  HODOR = '1.0'
+  HODOR = '1.0.1'
 end
