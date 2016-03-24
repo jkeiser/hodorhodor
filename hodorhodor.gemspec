@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email = "john@johnkeiser.com"
   s.extra_rdoc_files = [
     "HODORHODOR",
-    "HODOR.md"
+    "README.md"
   ]
   s.files = [ "HODOR", "HODORHODOR", "README.md", "Rakefile" ] + Dir.glob("{hodor,hodorhodor}/**/*")
   s.homepage = "https://github.com/jkeiser/hodorhodor"
